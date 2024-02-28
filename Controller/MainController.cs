@@ -4,7 +4,7 @@
     {
         public static void Main(string[] args)
         {
-            Console.WriteLine("Choose your mode: \n 1 - Console App; \n 2 - GUI App; 0 - exit.");
+            Console.WriteLine("Choose your mode: \n 1 - Console App; \n 2 - GUI App; \n 0 - exit.");
 
             var input = Console.ReadLine();
 
